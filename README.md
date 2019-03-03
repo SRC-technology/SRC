@@ -18,9 +18,10 @@ initiatives.
 
 We value _transparency, curiosity, and audacity_.
 
-This methodology, inspired by one of our values, means that all of our official
-documents, modulo some sensitive information being redacted, will be made
-available publicly in this repository.
+This open methodology, inspired by one of our values, means that
+all of our official documents, modulo some sensitive information
+being redacted, will be made available publicly in this
+Git repository.
 
 Here you will find:
 
