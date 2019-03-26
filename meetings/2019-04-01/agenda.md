@@ -8,6 +8,7 @@ Stockholm, 1 April 2019
    2. Sponsoring ReasonConf 
    3. Travel Sponsoring for JSConf EU
    4. Brochure Website
+   5. Learning Labs
 3. Additional issues
 4. Closing of the meeting 
 
@@ -59,3 +60,12 @@ these venus implying some interesting pair of eyes being laid upon us, I'd like
 to propose we spend some time setting up a website that conveys what we strive
 for, what we are working on right now, and that provides ways for people to
 submit donations.
+
+
+
+
+## Github Learning Labs
+
+Github has opened Learning Labs that we could use to document and guide some
+of our learnings in the form of workshops. This could benefit the ReasonSTHLM
+meetup and any other form of training that SRC provides.
