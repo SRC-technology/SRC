@@ -9,6 +9,14 @@
 <br/>
 <br/>
 
+### Table of Contents
+
+* [Who we Are](#who-we-are)
+* [How we Work](#how-we-work)
+* [Contribute](#contribute)
+
+## Who we Are 
+
 SRC is a non-for-profit organization based in Stockholm, Sweden, that is run in
 a completely open manner.
 
@@ -18,18 +26,21 @@ initiatives.
 
 We value _transparency, curiosity, and audacity_.
 
-This open methodology, inspired by one of our values, means that
-all of our official documents, modulo some sensitive information
-being redacted, will be made available publicly in this
-Git repository.
+## How we Work
+
+The open methodology we work with, inspired by one of our values, means that
+all of our official documents, modulo some sensitive information being
+redacted, will be made available publicly in this Git repository.
 
 Here you will find:
 
 1. [Meetings](meetings), with our detailed Agendas and Minutes.
 2. [Core documents](core), such as the [Articles of
-Association](core/articles-of-association.md) , and current [Board
-Composition](core/board.md).
-3. [Branding documnts](brand), such as our logotype in various formats.
+   Association](core/articles-of-association) , and current [Board
+   Composition](core/board).
+3. [Branding Documents](brand), such as our logotype in various formats.
+
+## Contribute
 
 You can reach us by filing an issue in this repository, or on Twitter
 [@SRC_technology](https://twitter.com/SRC_technology).
