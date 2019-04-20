@@ -66,5 +66,8 @@ Here you will find:
 
 ## Contribute
 
-You can reach us by filing an issue in this repository, or on Twitter
-[@SRC_technology](https://twitter.com/SRC_technology).
+You can reach us by:
+
+* filing an issue in this repository,
+* on Twitter [@SRC_technology](https://twitter.com/SRC_technology), or
+* via email at [hi@src.technology](mailto: hi@src.technology)
