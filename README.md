@@ -3,17 +3,11 @@
 <p align="center"> 
   <img
     src="https://github.com/SRC-technology/org/blob/master/brand/src_transparent_500.png?raw=true"
-    alt="Welcome to SRC"
+    alt="Stockholm Research Center logo"
   />
 </p>
 <br/>
 <br/>
-
-### Table of Contents
-
-* [Who we Are](#who-we-are)
-* [How we Work](#how-we-work)
-* [Contribute](#contribute)
 
 ## Who we Are 
 
