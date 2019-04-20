@@ -66,8 +66,12 @@ Here you will find:
 
 ## Contribute
 
-You can reach us by:
+If you are interested in contributing with a project idea, some of your hacking
+time, if you have found a big need that we could address, or if you want to
+support us monetarily, you can reach us by:
 
 * filing an issue in this repository,
-* on Twitter [@SRC_technology](https://twitter.com/SRC_technology), or
-* via email at [hi@src.technology](mailto: hi@src.technology)
+* tweeting at us: [@SRC_technology](https://twitter.com/SRC_technology),
+* sending an email to [hi@src.technology](mailto: hi@src.technology)
+
+We're happy to answer questions!
