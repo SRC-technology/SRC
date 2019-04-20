@@ -25,11 +25,11 @@ Git repository.
 
 Here you will find:
 
-1. [Meetings](/meetings), with our detailed Agendas and Minutes.
-2. [Core documents](/core), such as the [Articles of
-Association](/core/articles-of-association.md) , and current [Board
-Composition](/core/board.md).
-3. [Branding documnts](/brand), such as our logotype in various formats.
+1. [Meetings](meetings), with our detailed Agendas and Minutes.
+2. [Core documents](core), such as the [Articles of
+Association](core/articles-of-association.md) , and current [Board
+Composition](core/board.md).
+3. [Branding documnts](brand), such as our logotype in various formats.
 
 You can reach us by filing an issue in this repository, or on Twitter
 [@SRC_technology](https://twitter.com/SRC_technology).
