@@ -11,8 +11,9 @@
 
 ## Who we Are 
 
-SRC is a non-for-profit organization based in Stockholm, Sweden, that is run in
-a completely open manner.
+Stockholm Research Center (SRC for short, pronounced _source_) is a
+non-for-profit organization based in Stockholm, Sweden, that is run in a
+completely open manner.
 
 SRC aims to __advance humanity__, specifically our interaction with technology,
 our understanding of technology, and technology itself, via a series of
@@ -56,10 +57,12 @@ redacted, will be made available publicly in this Git repository.
 Here you will find:
 
 1. [Meetings](meetings), with our detailed Agendas and Minutes.
-2. [Core documents](core), such as the [Articles of
-   Association](core/articles-of-association) , and current [Board
+2. Core documents, such as the [Articles of
+   Association](core/articles-of-association), and current [Board
    Composition](core/board).
-3. [Branding Documents](brand), such as our logotype in various formats.
+3. [Branding
+   Documents](https://github.com/src-technology/org/tree/master/brand), such as
+   our logotype in various formats.
 
 ## Contribute
 
