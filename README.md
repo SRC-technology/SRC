@@ -26,6 +26,26 @@ initiatives.
 
 We value _transparency, curiosity, and audacity_.
 
+SRC was founded as is currently operated by:
+
+<ul style="list-style: none; text-align: center;">
+  <li>
+    <img
+         style="max-width: 120px; border-radius: 100%;"
+         src="https://avatars1.githubusercontent.com/u/4313088?s=460&v=4" alt="Iris Schaffer picture" />
+    <p> Iris Schaffer </p>
+  </li>
+   <li>
+    <img src="https://avatars3.githubusercontent.com/u/854222?s=460&v=4" alt="Leandro Ostera picture" />
+    <p> Leandro Ostera </p>
+  </li>
+  <li>
+    <img src="https://avatars1.githubusercontent.com/u/381614?s=460&v=4" alt="Fernando Via Canel picture" />
+    <p> Fernando Via Canel </p>
+  </li>
+</ul>
+
+
 ## How we Work
 
 The open methodology we work with, inspired by one of our values, means that
