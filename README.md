@@ -21,7 +21,7 @@ initiatives.
 
 We value _transparency, curiosity, and audacity_.
 
-SRC was founded as is currently operated by:
+SRC was founded and is currently operated by:
 
 <ul style="list-style: none; text-align: center;">
   <li
