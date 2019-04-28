@@ -2,7 +2,7 @@
 <br/>
 <p align="center"> 
   <img
-    src="https://github.com/SRC-technology/org/blob/master/brand/src_transparent_500.png?raw=true"
+    src="https://raw.githubusercontent.com/SRC-technology/SRC/master/brand/src_transparent_500.png"
     alt="Stockholm Research Center logo"
   />
 </p>
