@@ -3,6 +3,7 @@
 <p align="center"> 
   <img
     src="https://raw.githubusercontent.com/SRC-technology/SRC/master/brand/src_transparent_500.png"
+    stye="width: 100%; max-width: 250px"
     alt="Stockholm Research Center logo"
   />
 </p>
