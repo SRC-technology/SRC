@@ -8,6 +8,8 @@ Stockholm, 1 May 2019
    2. SRC Website
    3. Research Proposals
    4. Research Process
+   5. Learning Labs
+   6. Mailing List
 3. Additional issues
 4. Closing of the meeting
 
@@ -38,3 +40,15 @@ of accountability towards each other.
 In addition, this helps the outside world, including future donators and
 contributors, understand what commitment we are putting into these projects,
 and how much they can trust on us to get something done.
+
+
+## Learning Labs
+
+I'd like us to discuss the extent to which we could use learning labs as
+a platform for most of our educational work.
+
+
+## Mailing Lists
+
+We've set up a mailing list already on Mailchimp. I'd like us to define
+some use-cases for it.
