@@ -10,6 +10,7 @@ Stockholm, 1 May 2019
    4. Research Process
    5. Learning Labs
    6. Mailing List
+   7. Patreon
 3. Additional issues
 4. Closing of the meeting
 
@@ -52,3 +53,11 @@ a platform for most of our educational work.
 
 We've set up a mailing list already on Mailchimp. I'd like us to define
 some use-cases for it.
+
+
+## Patreon
+
+Recently I've set up a Patreon page for SRC here: https://www.patreon.com/src_technology/overview
+
+I'd like us to discuss briefly our supporter tiers and what kind of goals
+we are looking to have.
