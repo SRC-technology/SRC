@@ -16,7 +16,7 @@ Stockholm, 1 May 2019
 
 ## Bank Account Update
 
-TBD.
+An SEB representative will see us on the 17th of May, at 11:00hs. More details to come.
 
 ## SRC Website
 
