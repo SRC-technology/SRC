@@ -11,6 +11,7 @@ Stockholm, 1 May 2019
    5. Learning Labs
    6. Mailing List
    7. Patreon
+   8. Mentorships
 3. Additional issues
 4. Closing of the meeting
 
@@ -61,3 +62,7 @@ Recently I've set up a Patreon page for SRC here: https://www.patreon.com/src_te
 
 I'd like us to discuss briefly our supporter tiers and what kind of goals
 we are looking to have.
+
+## Mentorships
+
+It would be possible for us to provide mentor support to students. Let's discuss in what terms we could consider doing this.
