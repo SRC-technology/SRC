@@ -1,6 +1,7 @@
 
 |  Name | Driver | Status |
 |------|--------|--------|
+| Online courses | @ostera & @xaviervia | Ongoing |
 | Bazel Meetup | @ostera | Deferred |
 | Breaking Paragraphs into Lines on the Web | @xaviervia  | Deferred |
 | Bringing the Actor model to the Web / Native | @ostera | Ongoing |
