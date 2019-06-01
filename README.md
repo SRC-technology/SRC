@@ -48,6 +48,13 @@ SRC was founded and is currently operated by:
   </li>
 </ul>
 
+## Ongoing projects
+
+- [ReasonML Stockholm Meetup](projects/reason-stockholm-meetup.md)
+- [Online courses](projects/online-courses.md)
+- [Bringing the Actor model to the Web / Native](projects/actor-model)
+- [Dev/sign processes](projects/devsign-processes.md)
+
 
 ## How we Work
 
