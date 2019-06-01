@@ -80,6 +80,7 @@ support us monetarily, you can reach us by:
 
 * filing an issue in this repository,
 * tweeting at us: [@SRC_technology](https://twitter.com/SRC_technology),
-* sending an email to [hi@src.technology](mailto: hi@src.technology)
+* joining us as a patron: [SRC_technology @ Patreon](https://www.patreon.com/src_technology)
+* sending an email to [hi@src.technology](mailto:hi@src.technology)
 
 We're happy to answer questions!
