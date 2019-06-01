@@ -55,6 +55,7 @@ SRC was founded and is currently operated by:
 - [Bringing the Actor model to the Web / Native](projects/actor-model)
 - [Dev/sign processes](projects/devsign-processes.md)
 
+You can also find recorded talks in our [talk archive](events/talk-archive.md)
 
 ## How we Work
 
