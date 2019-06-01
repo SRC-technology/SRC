@@ -8,6 +8,6 @@ Fernando Vía Canel @ React Native Meetup, Klarna
 
 ## The least painful way to build a web app
 
-[![The least painful way to build a web app by Fernando Vía Canel & Paulo Ragonha @ Konferense, Klarna](https://img.youtube.com/vi/_raCnl0JpYI/0.jpg)](https://www.youtube.com/watch?v=_raCnl0JpYI)
-
 Fernando Vía Canel & Paulo Ragonha @ Konferense, Klarna
+
+[![The least painful way to build a web app by Fernando Vía Canel & Paulo Ragonha @ Konferense, Klarna](https://img.youtube.com/vi/_raCnl0JpYI/0.jpg)](https://www.youtube.com/watch?v=_raCnl0JpYI)
