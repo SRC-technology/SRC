@@ -1,5 +1,12 @@
 # Talk archive
 
+## Community RFCs for the Reason Ecosystem
+
+Leandro Ostera @ Reason Conf Vienna
+
+[![Leandro Ostera @ Reason Conf Vienna](https://img.youtube.com/vi/6zCoCLAdBZc/0.jpg)](https://www.youtube.com/watch?v=6zCoCLAdBZc)
+
+
 ## Universal Components
 
 Fernando Vía Canel @ React Native Meetup, Klarna
@@ -8,6 +15,12 @@ Fernando Vía Canel @ React Native Meetup, Klarna
 
 ## The least painful way to build a web app
 
-Fernando Vía Canel & Paulo Ragonha @ Konferense, Klarna
+Fernando Vía Canel & Paulo Ragonha @ Konferense,  Klarna
 
 [![The least painful way to build a web app by Fernando Vía Canel & Paulo Ragonha @ Konferense, Klarna](https://img.youtube.com/vi/_raCnl0JpYI/0.jpg)](https://www.youtube.com/watch?v=_raCnl0JpYI)
+
+## The universe as a function
+
+Fernando Vía Canel & Paulo Ragonha @ sthlm.js Meetup, Klarna
+
+[![The universe as a function by Fernando Vía Canel & Paulo Ragonha @ sthlm.js Meetup, Klarna](https://img.youtube.com/vi/i_K2ERHINKI/0.jpg)](https://www.youtube.com/watch?v=i_K2ERHINKI)
