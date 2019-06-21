@@ -1,5 +1,11 @@
 # Talk archive
 
+## Deterministic Rendering, Motion and the future of Styling
+
+Fernando Vía Canel @ Fika.js, Stockholm
+
+[![Fernando Vía Canel @ Fika.js, Stockholm](https://img.youtube.com/vi/Qnr_3bMsai0/0.jpg)](https://www.youtube.com/watch?v=Qnr_3bMsai0)
+
 ## Community RFCs for the Reason Ecosystem
 
 Leandro Ostera @ Reason Conf Vienna
