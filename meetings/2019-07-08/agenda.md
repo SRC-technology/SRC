@@ -97,6 +97,9 @@ with their own time and work.
 
 I would like to reflect these changes in our Articles.
 
+On top of this, I'd like to clarify what are some of the benefits included in being a member, such as
+the `@src.technology` email, or access to our yet unpublished research.
+
 
 
 
