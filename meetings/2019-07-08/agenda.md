@@ -12,6 +12,7 @@ Stockholm, 8 July 2019
    1. Ammendments to Membership Conditions, and introduction of a distinction between Supporters and Contributors
    1. 
 3. Additional issues
+   1. Planning for the AGM if we have some time. 
 4. Closing of the meeting
 
 
@@ -29,7 +30,8 @@ At the moment SRC is composed by 6 members and its structure requires work on th
 * _Finances_, including tracking expenses, coordinating bank appointments, and pursuing funds.
 
 * _Legal_, including keeping up to date with regulations, and making sure that in each one of our
-  engagements we do not lose our status as a non-profit, nor act illegally out of ignorance.
+  engagements we do not lose our status as a non-profit, nor act illegally out of ignorance. As well 
+  as keeping track of licenses. 
 
 * _IT_, including managing Google Apps for business, our Github organization, a Domain, and other
   related internet infrastructure.
@@ -39,7 +41,7 @@ At the moment SRC is composed by 6 members and its structure requires work on th
   new ones, et al. 
   
 * _Education_, including planning and preparing educational material, giving lectures, and running
-  meetups.
+  meetups. Decide on potential prices? 
 
 * _Software Research_, which includes the actual open source software we write, the experiments we
   conduct, and the research literature we publish.
@@ -67,6 +69,7 @@ including necessary formularies, accounting books, and any other paperwork that 
 To ready SRC for financial operation, I move to:
 
 * Outline the yearly process for reporting finances to the state
+* Make a budget and highlight which costs are actually relevant.
 * Book a meeting with a service provider for bookkeeping, in particular Bokio, and make sure
   we understand the value they bring and what part of the process we need to fill in ourselves
 * Appoint a _Treasurer_ for SRC, who will from then on be responsible for overseeing our finances.
@@ -76,8 +79,10 @@ To ready SRC for financial operation, I move to:
 ### 2.ii) Guidelines for Spending and Expensing
 
 It was brought up by Malin Männikkö that we should formalize how we spend SRCs resources.
-
-
+In particular: 
+* Who can use the company credit card
+* Who can spend money and on what, potentially with whoms permission. 
+* How do people report back to SRC their spending for SRC
 
 
 ### 2.iii) Ammendments to Membership Conditions, and introduction of a distinction between Supporters and Contributors
